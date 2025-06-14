@@ -32,6 +32,9 @@
   <h2>generar imagenes</h2>
   <p>en chat gpt se pueden generar imagenes de diderentes estilos solo pon el estilo lo que quieras genrar por ejemplo una familia comendo
   luego lo mandas a chat gpt</p>
+<img src="g.html/logo.png" alt="Logo de TecnoEduc" width="300">
+
+  
 
       
   <section id="canva">
